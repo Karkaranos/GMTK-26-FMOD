@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.03.00">
 	<object class="Workspace" id="{3d2a592c-2308-4ce3-b201-c3f28de980f8}">
+		<property name="builtBanksOutputDirectory">
+			<value>../../GMTK-2026/GMTK 2026/Assets</value>
+		</property>
 		<relationship name="masterEventFolder">
 			<destination>{51259522-2dc5-4136-bd3c-84dc3acbcddf}</destination>
 		</relationship>
