@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{f7c36bed-11dd-42b7-b71f-6c62d80f5a0b}">
+		<property name="assetPath">
+			<value>universfield-you-stupid-cat-352692.mp3</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>1.992</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1fcb287a-7f13-436f-b6de-1acc21651c23}</destination>
+		</relationship>
+	</object>
+</objects>
