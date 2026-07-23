@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
 	<object class="Workspace" id="{b306f628-80a5-40d1-8f20-c70b25160e8b}">
+		<property name="builtBanksOutputDirectory">
+			<value>../../GMTK-2026/GMTK 2026/Assets/FMOD Builds</value>
+		</property>
 		<relationship name="masterEventFolder">
 			<destination>{ea8ee0b1-6edb-49c5-988c-2b02b3909cc1}</destination>
 		</relationship>
