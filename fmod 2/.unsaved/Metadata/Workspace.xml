@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="Workspace" id="{b306f628-80a5-40d1-8f20-c70b25160e8b}">
+		<property name="builtBanksOutputDirectory">
+			<value>../../GMTK-2026/GMTK 2026/Assets/FMOD Builds</value>
+		</property>
+		<relationship name="masterEventFolder">
+			<destination>{ea8ee0b1-6edb-49c5-988c-2b02b3909cc1}</destination>
+		</relationship>
+		<relationship name="masterTagFolder">
+			<destination>{621ff8be-a26e-4830-8ad8-52c1b82b7b35}</destination>
+		</relationship>
+		<relationship name="masterEffectPresetFolder">
+			<destination>{83595549-f1db-4cfc-aa00-1b310fa32802}</destination>
+		</relationship>
+		<relationship name="masterParameterPresetFolder">
+			<destination>{fa7c5c4a-10c8-4a4e-9919-4e4bea0a98d8}</destination>
+		</relationship>
+		<relationship name="masterBankFolder">
+			<destination>{9518425e-d1a2-4a5d-a996-6ad1820b4df3}</destination>
+		</relationship>
+		<relationship name="masterSandboxFolder">
+			<destination>{e5a5ace2-8953-45ff-8b9f-0dd9bb1eda9b}</destination>
+		</relationship>
+		<relationship name="masterAssetFolder">
+			<destination>{1fcb287a-7f13-436f-b6de-1acc21651c23}</destination>
+		</relationship>
+		<relationship name="mixer">
+			<destination>{cd14d412-7f6d-4870-9060-f73a90f37e22}</destination>
+		</relationship>
+		<relationship name="profilerSessionFolder">
+			<destination>{31ea38f7-d453-4017-8ef1-a6ef0c7a8f32}</destination>
+		</relationship>
+		<relationship name="platforms">
+			<destination>{b517bfb5-44ba-4cbe-8605-147c447b4288}</destination>
+		</relationship>
+	</object>
+</objects>
