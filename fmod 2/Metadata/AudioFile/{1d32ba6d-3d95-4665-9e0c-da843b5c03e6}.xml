@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<objects serializationModel="Studio.02.03.00">
-	<object class="AudioFile" id="{c92f031e-a674-47ba-86c1-a97e43eb04e6}">
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{1d32ba6d-3d95-4665-9e0c-da843b5c03e6}">
 		<property name="assetPath">
 			<value>DeBeats .wav</value>
 		</property>
