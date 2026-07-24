@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{a83b8cf3-3b33-49f3-a72c-5b71e6714228}">
+		<property name="assetPath">
+			<value>ZachPenguin4.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>1.4730208333333332</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1fcb287a-7f13-436f-b6de-1acc21651c23}</destination>
+		</relationship>
+	</object>
+</objects>
