@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="Event" id="{1a14f212-1f48-4f35-ae09-c13d7d511afc}">
 		<property name="name">
-			<value>Ice Break</value>
+			<value>Ice Shatter</value>
 		</property>
 		<property name="outputFormat">
 			<value>1</value>
