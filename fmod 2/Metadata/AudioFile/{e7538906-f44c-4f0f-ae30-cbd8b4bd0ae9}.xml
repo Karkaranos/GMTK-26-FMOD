@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{e7538906-f44c-4f0f-ae30-cbd8b4bd0ae9}">
+		<property name="assetPath">
+			<value>Penguins Can_t Fly4.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>190.82292517006803</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1fcb287a-7f13-436f-b6de-1acc21651c23}</destination>
+		</relationship>
+	</object>
+</objects>
