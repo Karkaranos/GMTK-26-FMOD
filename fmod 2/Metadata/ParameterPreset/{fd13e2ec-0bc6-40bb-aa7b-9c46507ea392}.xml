@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{fd13e2ec-0bc6-40bb-aa7b-9c46507ea392}">
+		<property name="name">
+			<value>GlitchNoise</value>
+		</property>
+		<relationship name="folder">
+			<destination>{fa7c5c4a-10c8-4a4e-9919-4e4bea0a98d8}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{8b06f489-57b6-4f09-8423-7d0ff171a832}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{8b06f489-57b6-4f09-8423-7d0ff171a832}">
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+		<relationship name="modulators">
+			<destination>{556fe6b7-0eae-4134-9da6-8a0f3e7e5097}</destination>
+		</relationship>
+	</object>
+	<object class="RandomizerModulator" id="{556fe6b7-0eae-4134-9da6-8a0f3e7e5097}">
+		<property name="nameOfPropertyBeingModulated">
+			<value>cursorPosition</value>
+		</property>
+		<property name="amount">
+			<value>100</value>
+		</property>
+	</object>
+</objects>
